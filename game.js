@@ -38,7 +38,7 @@ startGame = () => {
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
-        // go to end page
+        // Go to end page
         return window.location.assign("/end.html");
     }
     questionCounter++;
@@ -76,7 +76,18 @@ choices.forEach( choice => {
 
         setTimeout( () => {
             selectedChoice.parentElement.classList.remove(classToApply);
-            getNewQuestion();
+            if (classToApply === "incorrect") {
+                // Show the correct answer
+                const correctAnswerId = `q${currentQuestion.answer}`;
+                const correctAnswer = document.getElementById(correctAnswerId);
+                correctAnswer.classList.add("correct");
+                setTimeout( () => {
+                    correctAnswer.classList.remove("correct");
+                    getNewQuestion();
+                }, 3000);
+            }
+            else
+                getNewQuestion();
         }, 1000);
     });
 });
