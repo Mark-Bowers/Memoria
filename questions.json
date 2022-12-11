@@ -1,0 +1,142 @@
+
+[
+    {
+        "question": "What is the process of aging called?",
+        "choice1": "senility",
+        "choice2": "senescence",
+        "choice3": "senet",
+        "choice4": "senestrous",
+        "answer": 2
+    },
+    {
+        "question": "What is the most common cause of aging?",
+        "choice1": "genetic factors",
+        "choice2": "environmental factors",
+        "choice3": "cellular damage",
+        "choice4": "all of the above",
+        "answer": 3
+    },
+    {
+        "question": "What is the main cause of cellular damage?",
+        "choice1": "free radicals",
+        "choice2": "oxidative stress",
+        "choice3": "inflammation",
+        "choice4": "all of the above",
+        "answer": 1
+    },
+    {
+        "question": "What are free radicals?",
+        "choice1": "stable molecules that protect cells",
+        "choice2": "unstable molecules that can damage cells",
+        "choice3": "molecules that help repair cells",
+        "choice4": "none of the above",
+        "answer": 2
+    },
+    {
+        "question": "What is the main cause of free radicals in the body?",
+        "choice1": "exposure to environmental toxins",
+        "choice2": "exposure to sunlight",
+        "choice3": "poor diet",
+        "choice4": "all of the above",
+        "answer": 1
+    },
+    {
+        "question": "What are some examples of environmental toxins?",
+        "choice1": "smoke, pollution, and radiation",
+        "choice2": "alcohol, caffeine, and sugar",
+        "choice3": "stress, lack of sleep, and physical inactivity",
+        "choice4": "all of the above",
+        "answer": 1
+    },
+    {
+        "question": "What are some anti-aging strategies?",
+        "choice1": "healthy diet, exercise, and avoiding environmental toxins",
+        "choice2": "face lifts, botox, and chemical peels",
+        "choice3": "surgery, hormone therapy, and stem cell therapy",
+        "choice4": "none of the above",
+        "answer": 1
+    },
+    {
+        "question": "What are some anti-aging foods?",
+        "choice1": "fruits and vegetables, whole grains, and healthy fats",
+        "choice2": "red meat, processed foods, and refined sugars",
+        "choice3": "fast food, soda, and junk food",
+        "choice4": "none of the above",
+        "answer": 1
+    },
+    {
+        "question": "What is the term for the study of aging?",
+        "choice1": "gerontology",
+        "choice2": "geriatrics",
+        "choice3": "gerontocracy",
+        "choice4": "geriatrician",
+        "answer": 1
+    },
+    {
+        "question": "What is the main function of the telomeres in cells?",
+        "choice1": "to protect the genetic material",
+        "choice2": "to repair damaged DNA",
+        "choice3": "to regulate cell division",
+        "choice4": "to produce energy",
+        "answer": 1
+    },
+    {
+        "question": "What happens to telomeres during the aging process?",
+        "choice1": "they lengthen",
+        "choice2": "they shorten",
+        "choice3": "they remain unchanged",
+        "choice4": "they become more reactive",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is NOT a common sign of aging?",
+        "choice1": "wrinkles",
+        "choice2": "gray hair",
+        "choice3": "decreased muscle mass",
+        "choice4": "increased bone density",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is NOT a common cause of age-related cognitive decline?",
+        "choice1": "beta-amyloid plaques",
+        "choice2": "tau tangles",
+        "choice3": "oxidative stress",
+        "choice4": "decreased brain volume",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is NOT a common symptom of age-related cognitive decline?",
+        "choice1": "memory loss",
+        "choice2": "difficulty making decisions",
+        "choice3": "slowed thinking",
+        "choice4": "increased alertness",
+        "answer": 4
+    },
+    {
+        "question": "What is the main function of the enzyme telomerase?",
+        "choice1": "to repair damaged telomeres",
+        "choice2": "to produce more telomeres",
+        "choice3": "to activate the immune system",
+        "choice4": "to regulate cell division",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is NOT considered a potential anti-aging therapy?",
+        "choice1": "caloric restriction",
+        "choice2": "exercise",
+        "choice3": "telomere lengthening",
+        "choice4": "stem cell therapy",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is NOT considered an anti-aging supplement?",
+        "choice1": "antioxidants",
+        "choice2": "omega-3 fatty acids",
+        "choice3": "collagen",
+        "choice4": "cortisol",
+        "answer": 4
+    }
+]
+
+        
+
